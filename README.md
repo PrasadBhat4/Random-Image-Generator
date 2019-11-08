@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
- DEMO of the Application : [Random Image Generator](https://github.com/facebook/create-react-app).
+ DEMO of the Application : [Random Image Generator](https://random-image-generator.netlify.com/).
 
 ## Available Scripts
 
